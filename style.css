@@ -87,13 +87,14 @@
             left: 50%;
             padding-bottom:-15px;
             padding-top:-15px;
-            margin-top:-15px;
+            margin-top:0px;
+            height: 22px;
 
         }
 
         div.contact p{
-
-            padding-bottom:0px;
+            margin-top:-10px;
+            padding-bottom:20px;
         }
 
 
@@ -103,6 +104,7 @@
             color:red;
             text-decoration:none;
             font-size:14px;
+            
 
         }
 
